@@ -1,0 +1,2 @@
+# kodluyoruzVeriyap-lar-VeAlgoritmalar
+kodluyoruzVeriyapılarıVeAlgoritmalar
